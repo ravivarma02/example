@@ -1,0 +1,43 @@
+*{
+    margin: auto;
+}
+
+body{
+    background-color: white;
+    height: 1024px;
+    width: 100vw;
+    
+}header{
+    background-color: aqua;
+    height: 118px;px;
+    width: 1024px;
+}
+main{
+    background-color: green;
+    text-align: center;
+    height: 400px;
+    width: 1024px;
+}
+footer{
+    background-color: red;
+    height: 100px;
+    width: 1024px;
+}
+nav{
+    margin: auto;
+    background-color: burlywood;
+    font-size: larger;
+    height: 70px;
+    width: 50px;
+}
+div{
+    background-color: bisque;
+    height: 300px;
+    width: 400px;
+}
+h1{text-align: center;}
+button{
+    background-color: brown;
+    height: 30px;
+    width: 50px;
+}
