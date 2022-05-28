@@ -3,41 +3,53 @@
 }
 
 body{
-    background-color: white;
+    background-image: url("./back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: 
     height: 1024px;
     width: 100vw;
     
 }header{
-    background-color: aqua;
-    height: 118px;px;
+    text-align: center;
+    background-color:
+    height: 118px;
     width: 1024px;
 }
 main{
-    background-color: green;
     text-align: center;
-    height: 400px;
     width: 1024px;
 }
 footer{
-    background-color: red;
+    background-color:
     height: 100px;
     width: 1024px;
 }
 nav{
+    padding: 20px 0;
     margin: auto;
-    background-color: burlywood;
-    font-size: larger;
-    height: 70px;
-    width: 50px;
+    font-size: medium;    
+    width: 700px;
+    background-color: rgb(107, 106, 106);
 }
 div{
-    background-color: bisque;
+    background-color: 
     height: 300px;
     width: 400px;
 }
 h1{text-align: center;}
 button{
-    background-color: brown;
+    background-color: 
     height: 30px;
     width: 50px;
+}
+nav ol{
+    list-style: none;
+    display: flex;
+}
+nav ol li{
+    color: aliceblue;
+    text-transform: uppercase;
+    font-size: medium;
+
 }
